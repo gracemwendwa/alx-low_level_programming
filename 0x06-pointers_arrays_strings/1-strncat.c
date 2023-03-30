@@ -1,5 +1,3 @@
-Executable File  32 lines (26 sloc)  534 Bytes
-
 #include "main.h"
 /**
  *_strncat -  concatenates two strings
